@@ -13,7 +13,7 @@
 
 ---
 
-## <span class="section-header">▶️ INITIATING SEQUENCE [MAIN.EXE]</span>
+## <span class="section-header">▶️ INITIATING SEQUENCE </span>
 
 <div class="glassmorphic-panel">
 This repository holds the operational code from a Google Colab unit dedicated to **Computer Vision Protocols**. Its primary function is to locate and identify **correlated data points** between two distinct visual inputs. Consider it an automated pattern recognition module for cross-referencing image specifics.
@@ -104,10 +104,4 @@ Each module is documented with embedded markdown directives for operational clar
 
 ---
 
-## <span class="section-header">📺 VISUAL DATA STREAM (SIMULATED)</span>
 
- Output" class="styled-image"/>
-  <br><br>
-  <h3>[DISPLAY] Gradio Terminal Interface</h3>
-  <img src="https://user-images.githubusercontent.com/KABURAKURIA/YourRepoName/branch/main/path/to/your/gradio_app_screenshot.png" alt="Gradio App Screenshot" class="styled-image"/>
-</div>
