@@ -1,0 +1,8 @@
+gradio
+opencv-python
+numpy
+kornia
+kornia-moons
+torch
+torchvision
+matplotlib
