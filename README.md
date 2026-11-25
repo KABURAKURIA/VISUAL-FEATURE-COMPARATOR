@@ -1,15 +1,10 @@
-# 🔍 Visual Feature Comparator
-
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Visual Feature Comparator
 
 An interactive computer vision web application that performs fine-grained feature matching, geometric verification, and similarity analysis between image pairs using advanced keypoint descriptors.
 
 ---
 
-## ⚙️ Algorithmic Workflow
+## Algorithmic Workflow
 
 ```mermaid
 flowchart LR
@@ -29,7 +24,7 @@ flowchart LR
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ```bash
 # Clone the repository
@@ -47,7 +42,7 @@ Or open the interactive experimentation notebook: `Visual_Feature_Comparator.ipy
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Computer Vision**: OpenCV (`cv2`)
 - **Numerical Computing**: NumPy
@@ -56,6 +51,6 @@ Or open the interactive experimentation notebook: `Visual_Feature_Comparator.ipy
 
 ---
 
-## 📄 License
+## License
 
 MIT License. See [LICENSE](LICENSE) for details.
